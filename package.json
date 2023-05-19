@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1381.0",
+    "axios": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "name": "percyescobilla"
+}
